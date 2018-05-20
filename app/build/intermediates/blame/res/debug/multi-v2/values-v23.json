@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/asmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.0.aar/17fa6bb1e3aa67a4e1009d7e366f44d9/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,26,39,40,41,42,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "446,581,716,791,878,1668,2470,2597,2702,2817,2924",
+                        "endLines": "9,10,11,12,25,38,39,40,41,42,43",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "576,711,786,873,1663,2465,2592,2697,2812,2919,3032"
+                    }
+                },
+                {
+                    "source": "/media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/res/values-v23/style.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "8",
+                        "startOffsets": "63",
+                        "endLines": "9",
+                        "endColumns": "16",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "16",
+                        "endOffsets": "441"
+                    }
+                },
+                {
+                    "source": "/home/asmin/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.1.0.aar/421e2688967ba3e00e9ccc1704f84f2e/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "44",
+                        "startColumns": "4",
+                        "startOffsets": "3037",
+                        "endLines": "46",
+                        "endColumns": "12",
+                        "endOffsets": "3182"
+                    }
+                }
+            ]
+        }
+    ]
+}
