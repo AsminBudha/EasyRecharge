@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "82552836039",
+    "firebase_url": "https://easy-recharge-4dbfb.firebaseio.com",
+    "project_id": "easy-recharge-4dbfb",
+    "storage_bucket": "easy-recharge-4dbfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82552836039:android:1445828ac75da70a",
+        "android_client_info": {
+          "package_name": "com.app.easyrecharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82552836039-abe9oidui3tisurhdv9ftgc0uekrej4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKGlDqEyhYxS2xi6Cq-1b5ERh0FY3WNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

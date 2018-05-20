@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Recharge</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Detect Text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Text read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+    <string name="ntc">42901</string>
+    <string name="ncell">42902</string>
+    <string name="utl">42903</string>
+    <string name="smart_cell">42904</string>
+
+    <string name="admob_banner">ca-app-pub-9138078313774668/1877142636</string>
+    <string name="admob_interstitial">ca-app-pub-9138078313774668/6446832634</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="torch">Torch</string>
+    <string name="policy">Privacy &amp; Policy</string>
+    <string name="help">Help</string>
+    <string name="policy_text">
+        “Easy Recharge” app do not collect any personal information. And the service provided by this app is not endorsed by respective service provider .This app integrates third party services “Google Admob” which may collect the information to provide relevant information according to their terms and condition.
+    </string>
+    <string name="help_text">Get started with EasyRecharge and start to recharge more easily with other lots of extra feature. Simply scan your pin number and recharge. Hold steadily and be patience your pin will be successfully recharged.</string>
+    <string name="check_balance">Check Balance</string>
+    <string name="call_center">Call Center</string>
+</resources>

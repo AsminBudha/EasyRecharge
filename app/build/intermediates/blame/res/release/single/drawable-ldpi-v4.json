@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Ashmin\\AndroidStudioProjects\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_flash_off.png",
+        "source": "C:\\Users\\Ashmin\\AndroidStudioProjects\\ocr-reader-start\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_flash_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Ashmin\\AndroidStudioProjects\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_flash_on.png",
+        "source": "C:\\Users\\Ashmin\\AndroidStudioProjects\\ocr-reader-start\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_flash_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Ashmin\\AndroidStudioProjects\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Ashmin\\AndroidStudioProjects\\ocr-reader-start\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\Ashmin\\AndroidStudioProjects\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_balance.png",
+        "source": "C:\\Users\\Ashmin\\AndroidStudioProjects\\ocr-reader-start\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_balance.png"
+    }
+]

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.1.0_7907265668ff092b678ab710218994081acae15d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AppData\Local\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\support-annotations-24.1.0_731b8b2e2ecfa00358d1b8d79d926a1d95b92514.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-vision-9.0.0_3a1a0540e3517c85ac98a16a0a77f7fc392a12d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.0.0_66e875a530a23cd4ef4d9b455053048e7c232fa8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.0.0_f2ee9466a3a49e950bca63cb55257059f9d69b4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\design\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.android.support-design-24.1.0_0525491484ee93f396294e1df9f67fdbda2d419c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.0.0_62789d042916e9980c52c76e0a0bb774df44b0f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-9.0.0_ae839021122f95397f3a5101eae7faaa9c97bb5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.1.0_7eda8a0a3df2c201ac7b45a4e3abf7741c857b10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\internal_impl-24.1.0_9b6473831b0cc82af55c9bcdadac32fc5f64e891.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.1.0_cd1d970eaac8423afdf2303abda536e0d0b9a615.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-9.0.0_f4bde3f0f87a0ab3dc74a842aeb2e65a2684cd49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="83b9d1fd6dd3791184d6b60d3a130a993e2987e3">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-24.1.0_6b04a70af917d669c3ad1cc121dfa881eeb9e6c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.0.0_59506cd8a213c943312d22ca2c98ed5e7866d802.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.0.0_b817247473abffb96b6a78369018f306c0a37c5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.1.0_eac9e6cd8218bcd1d55275a7e87abe0d3dee138e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.1.0_d8da90e02e05d51ef64f38ccce8ca190322ab923.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.0.0_02185599c7aa141b76b9e50f9afb4614eee08aa1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Ashmin\AndroidStudioProjects\ocr-reader-start\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.0.0_746faf8c3933253fdfc5eef269e52554852fd2e5.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Sun May 20 09:41:51 NPT 2018
+base.0=/media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

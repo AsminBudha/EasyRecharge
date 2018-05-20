@@ -1,0 +1,370 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:1-64:12
+MERGED from [com.android.support:design:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/design-24.1.0.aar/637544eabc4b841a2046a30aa3932f29/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.0.aar/17fa6bb1e3aa67a4e1009d7e366f44d9/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.0.aar/8d1536fedb89944fa626080df8ef4ff1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.0.0.aar/8354b6d376b92ae8c43d7e61f869e368/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-ads:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.0.0.aar/87cf3d1780e89a195ce5efa356e1c892/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.0.0.aar/b62dab50635d1a34b0fa602c377253bb/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-core:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/f797b0f27f9cb4bc5afef6169152388c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/dc44bb28922718e066a3a1e89fe0b871/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/ae83ab6ecfb50121aa18bde50abc27db/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/eeebac0625a86ee4c986f5186b4eca3a/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.0.aar/4b53ae19f68e67dbc44ae4010dcbf8df/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.0.aar/d6215878d9baf726cd4201b82adc5799/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.0.aar/bdec8874f02e0c69ba301349aeb0fea1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.1.0.aar/421e2688967ba3e00e9ccc1704f84f2e/AndroidManifest.xml:17:1-24:12
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CALL_PHONE
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:8:22-66
+uses-permission#android.permission.CAMERA
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:11:22-76
+application
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:13:5-62:19
+MERGED from [com.android.support:design:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/design-24.1.0.aar/637544eabc4b841a2046a30aa3932f29/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/design-24.1.0.aar/637544eabc4b841a2046a30aa3932f29/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.0.aar/17fa6bb1e3aa67a4e1009d7e366f44d9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.0.aar/17fa6bb1e3aa67a4e1009d7e366f44d9/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.0.0.aar/8354b6d376b92ae8c43d7e61f869e368/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.0.0.aar/8354b6d376b92ae8c43d7e61f869e368/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.0.0.aar/87cf3d1780e89a195ce5efa356e1c892/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.0.0.aar/87cf3d1780e89a195ce5efa356e1c892/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/f797b0f27f9cb4bc5afef6169152388c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/f797b0f27f9cb4bc5afef6169152388c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/dc44bb28922718e066a3a1e89fe0b871/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/dc44bb28922718e066a3a1e89fe0b871/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/ae83ab6ecfb50121aa18bde50abc27db/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/ae83ab6ecfb50121aa18bde50abc27db/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/eeebac0625a86ee4c986f5186b4eca3a/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/eeebac0625a86ee4c986f5186b4eca3a/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.0.aar/4b53ae19f68e67dbc44ae4010dcbf8df/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.0.aar/4b53ae19f68e67dbc44ae4010dcbf8df/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.0.aar/d6215878d9baf726cd4201b82adc5799/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.0.aar/d6215878d9baf726cd4201b82adc5799/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.0.aar/bdec8874f02e0c69ba301349aeb0fea1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.0.aar/bdec8874f02e0c69ba301349aeb0fea1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.1.0.aar/421e2688967ba3e00e9ccc1704f84f2e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.1.0.aar/421e2688967ba3e00e9ccc1704f84f2e/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:18:9-41
+	android:hardwareAccelerated
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:16:9-43
+	android:fullBackupContent
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:15:9-42
+	android:icon
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:20:9-40
+meta-data#com.google.android.gms.version
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:22:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/eeebac0625a86ee4c986f5186b4eca3a/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/eeebac0625a86ee4c986f5186b4eca3a/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:22:20-65
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:28:9-30:35
+	android:value
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:30:13-32
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:29:13-70
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:32:9-35:64
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:26:9-29:64
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:34:13-122
+	android:theme
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:35:13-61
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:33:13-65
+activity#com.app.easyrecharge.OcrCaptureActivity
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:37:9-45:20
+	android:label
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:38:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:43:27-74
+activity#com.app.easyrecharge.PrivacyPolicyActivity
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:47:9-53:20
+	android:configChanges
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:48:13-122
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:49:13-50
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:50:13-52:75
+	android:value
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:52:17-72
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:51:17-63
+activity#com.app.easyrecharge.HelpActivity
+ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:54:9-60:20
+	android:configChanges
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:55:13-122
+	android:name
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml:56:13-41
+uses-sdk
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/design-24.1.0.aar/637544eabc4b841a2046a30aa3932f29/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/design-24.1.0.aar/637544eabc4b841a2046a30aa3932f29/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.0.aar/17fa6bb1e3aa67a4e1009d7e366f44d9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.0.aar/17fa6bb1e3aa67a4e1009d7e366f44d9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.0.aar/8d1536fedb89944fa626080df8ef4ff1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.0.aar/8d1536fedb89944fa626080df8ef4ff1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.0.0.aar/8354b6d376b92ae8c43d7e61f869e368/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.0.0.aar/8354b6d376b92ae8c43d7e61f869e368/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-ads:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.0.0.aar/87cf3d1780e89a195ce5efa356e1c892/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-ads:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.0.0.aar/87cf3d1780e89a195ce5efa356e1c892/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.0.0.aar/b62dab50635d1a34b0fa602c377253bb/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.0.0.aar/b62dab50635d1a34b0fa602c377253bb/AndroidManifest.xml:19:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/f797b0f27f9cb4bc5afef6169152388c/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/f797b0f27f9cb4bc5afef6169152388c/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/dc44bb28922718e066a3a1e89fe0b871/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/dc44bb28922718e066a3a1e89fe0b871/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/ae83ab6ecfb50121aa18bde50abc27db/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/ae83ab6ecfb50121aa18bde50abc27db/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/eeebac0625a86ee4c986f5186b4eca3a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/eeebac0625a86ee4c986f5186b4eca3a/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.0.aar/4b53ae19f68e67dbc44ae4010dcbf8df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.0.aar/4b53ae19f68e67dbc44ae4010dcbf8df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.0.aar/d6215878d9baf726cd4201b82adc5799/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.0.aar/d6215878d9baf726cd4201b82adc5799/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.0.aar/bdec8874f02e0c69ba301349aeb0fea1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.0.aar/bdec8874f02e0c69ba301349aeb0fea1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.1.0.aar/421e2688967ba3e00e9ccc1704f84f2e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.1.0.aar/421e2688967ba3e00e9ccc1704f84f2e/AndroidManifest.xml:20:5-43
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.0.aar/17fa6bb1e3aa67a4e1009d7e366f44d9/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+		ADDED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+		INJECTED from /media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:29:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/c9a3a231a4d0979a7cc2128aa19b9048/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/874ed98ad3c920994ec148339e3a9966/AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/dc44bb28922718e066a3a1e89fe0b871/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/dc44bb28922718e066a3a1e89fe0b871/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/dc44bb28922718e066a3a1e89fe0b871/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/dc44bb28922718e066a3a1e89fe0b871/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:25:17-71
+permission#com.app.easyrecharge.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:28:22-76
+uses-permission#com.app.easyrecharge.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:33:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:36:13-40:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.app.easyrecharge
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:39:27-58
+category#com.app.easyrecharge
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:52:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/f4538e916b4f56186ae43dea7b312894/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/d32fe1df770f60f7b075c407c7d36833/AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/asmin/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.0.0.aar/06df66176fdecb1dc20e50edc20a2098/AndroidManifest.xml:30:19-91
