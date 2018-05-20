@@ -6,22 +6,22 @@
     density="hdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1526790243380"
+    timestamp="1526792638592"
     token="240053500271453943"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="4691" />
+        duration="4408" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="93" />
+        duration="265" />
     <task
         name="verifier"
-        duration="235" />
+        duration="239" />
 
     <artifact
         location="/media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1526790243380"
+        timestamp="1526792638592"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/media/asmin/82EE2BFBEE2BE65F/My Works/EasyRecharge/EasyRecharge/app/build/intermediates/split-apk/debug/slices/slice_6.apk"

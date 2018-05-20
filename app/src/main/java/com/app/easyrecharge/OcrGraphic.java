@@ -96,7 +96,7 @@ public class OcrGraphic extends GraphicOverlay.Graphic {
      */
     @Override
     public void draw(Canvas canvas) {
-        
+
         if (mText == null) {
             RectF rect = new RectF();
             rect.left=100;
